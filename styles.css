@@ -51,6 +51,7 @@ header li {
   justify-content: space-between;
   align-items: center;
 }
+
 .ham {
     padding-left: 10px;
 }
@@ -90,7 +91,7 @@ header li {
   font-size: 11px;
   color: #7f8cff;
   font-style: normal;
-  font-weight: 500px;
+  font-weight: normal;
   line-height: 24px;
   letter-spacing: 0;
   text-align: left;
